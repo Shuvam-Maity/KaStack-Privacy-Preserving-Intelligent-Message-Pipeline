@@ -1,62 +1,126 @@
 # Privacy-Preserving Intelligent Message Pipeline
 
-A robust, privacy-first AI/ML processing pipeline designed to classify raw chronological messages, extract actionable tasks and event details, and detect/mask sensitive personally identifiable information (PII) or secrets.
+A privacy-first AI/ML message processing system designed to classify chronological messages, extract actionable tasks and events, and automatically detect and mask sensitive personally identifiable information (PII) and security credentials.
 
 ---
 
-## 🌟 Overview & Features
-
-This system processes unstructured communication data locally and in real time through three decoupled stages:
+## ?? Key Features
 
 1. **Part 1: Message Classification**
-   - Categorizes each input message into one of 6 mandatory categories: `action_required`, `meeting_or_event`, `personal_information`, `general_information`, `promotional`, or `sensitive_information`.
-   - Computes a confidence score (0.0 to 1.0) and generates a brief human-readable explanation for each prediction.
+   - Categorizes raw messages into 6 mandatory types: \ction_required\, \meeting_or_event\, \personal_information\, \general_information\, \promotional\, or \sensitive_information\.
+   - Computes deterministic confidence scores (0.0 to 1.0) and provides concise explanations for each prediction.
 
-2. **Part 2: Task and Event Extraction**
-   - Extracts structured tasks, deadlines, event details, assignees, and priorities using `spaCy` Named Entity Recognition (NER) and `dateparser`.
-   - **Zero Hallucination Guardrail:** Strict logic maps ambiguous or missing deadlines, times, and assignees directly to `null` or unresolved states rather than fabricating values.
+2. **Part 2: Task & Event Extraction**
+   - Extracts structured tasks, deadlines, event details, assignees, and priority levels using \spaCy\ Named Entity Recognition (NER) and \dateparser\.
+   - **Zero-Hallucination Guardrail:** Strict logic maps ambiguous or missing deadlines, times, and assignees directly to \
+ull\ or unresolved states rather than fabricating values.
 
 3. **Part 3: Sensitive Information Detection & Masking**
-   - Identifies high-risk patterns including One-Time Passwords (OTPs), bank/payment credentials, bearer tokens, API keys, and account passwords.
-   - Applies redaction (asterisks `*`) to sensitive text substrings before passing messages to classification layers, output files, logs, or UI displays.
-   - Provides risk assessments (`critical`, `high`) and actionable security guidelines (`do_not_store`, `do_not_send_to_external_service`).
+   - Identifies high-risk patterns including One-Time Passwords (OTPs), bank/payment details, bearer tokens, API keys, and passwords.
+   - Applies string redaction (\*\) to sensitive substrings across outputs, logs, and UI components.
+   - Outputs a security audit log with risk assessments (\critical\, \high\) and recommended actions (\do_not_store\, \do_not_send_to_external_service\).
 
 ---
 
-## 🏗️ How the Pipeline Works
+## ??? Architecture & Pipeline Flow
 
-### 1. Classification Methodology
-- **Pre-Masking Input:** Messages first pass through the PII masking layer. If sensitive authentication or financial patterns are detected, the message is prioritized as `sensitive_information` with high confidence.
-- **Contextual Categorization:** Evaluates linguistic cues, urgency phrases, commercial language, and scheduling terminology.
-- **Deterministic Confidence:** Assigns scores based on rule context strength and semantic pattern matches.
-
-### 2. Task & Event Extraction Logic
-- **Entity Parsing:** Uses `spaCy` (`en_core_web_sm`) to extract `DATE`, `TIME`, and `PERSON` entities from actionable messages (`action_required` and `meeting_or_event`).
-- **Date Normalization:** Converts relative and absolute date strings into standardized `YYYY-MM-DD` and `HH:MM` formats via `dateparser`.
-- **Field Safety:** If an entity is absent or ambiguous in the source text, the property remains `null`.
-
-### 3. Sensitive Data Masking Mechanics
-- **Pattern Matching:** Utilizes regex rules tuned for credit cards, tokens, passwords, and verification codes.
-- **Data Protection:** Redacts matching substrings directly at string boundaries before downstream processing, ensuring raw credentials never appear in output JSON files, Streamlit UI components, or cloud logs.
+\\\	ext
+Raw Input Messages (CSV)
+         �
+         ?
++------------------------------+
+�  Stage 1: PII Masking & Audit� --? output/sensitive_info_audit.json
++------------------------------+
+               � (Masked Text)
+               ?
++------------------------------+
+�  Stage 2: Classification     � --? output/classification_results.json
++------------------------------+
+               �
+               ?
++------------------------------+
+�  Stage 3: Task/Event Extraction� --? output/extracted_tasks.json
++------------------------------+
+\\\
 
 ---
 
-## 📁 Repository Structure
+## ?? Repository Structure
 
-```text
-kastack-message-intelligence/
-├── .gitignore                  # Prevents raw CSV dataset files from being committed
-├── README.md                   # System documentation and assignment breakdown
-├── requirements.txt            # Environment dependencies and SpaCy model wheels
-├── app.py                      # Interactive Streamlit Cloud web interface
-├── pipeline.py                 # Core business logic and shared NLP functions
-├── run_stage1_masking.py       # Stage 1: PII Detection & Security Audit
-├── run_stage2_classify.py      # Stage 2: Category Predictions & Mandatory ID Check
-├── run_stage3_extraction.py    # Stage 3: Task & Event Structuring
-├── run_all.py                  # End-to-end master pipeline runner
-├── data/
-│   └── .gitkeep                # Tracks local folder in Git (raw CSVs remain git-ignored)
-└── output/                     # Generated structured output JSON files
-    ├── classification_results.json
-    ├── extracted_tasks.json
-    └── sensitive_info_audit.json
+\\\	ext
+KaStack-Privacy-Preserving-Intelligent-Message-Pipeline/
++-- .gitignore                  # Excludes raw CSV datasets and virtual environments
++-- README.md                   # System documentation and assignment details
++-- requirements.txt            # Dependencies and explicit SpaCy model wheel link
++-- app.py                      # Interactive Streamlit Cloud web dashboard
++-- pipeline.py                 # Core processing logic, NLP functions, and Regex patterns
++-- run_stage1_masking.py       # Stage 1 execution runner
++-- run_stage2_classify.py      # Stage 2 execution runner
++-- run_stage3_extraction.py    # Stage 3 execution runner
++-- run_all.py                  # Master runner for end-to-end processing
++-- data/
+�   +-- .gitkeep                # Retains directory structure (raw CSVs git-ignored)
++-- output/                     # Generated structured JSON deliverables
+    +-- classification_results.json
+    +-- extracted_tasks.json
+    +-- sensitive_info_audit.json
+\\\
+
+---
+
+## ?? Setup & Execution Guide
+
+### Local Installation
+
+1. Clone the repository:
+   \\\ash
+   git clone https://github.com/Shuvam-Maity/KaStack-Privacy-Preserving-Intelligent-Message-Pipeline.git
+   cd KaStack-Privacy-Preserving-Intelligent-Message-Pipeline
+   \\\
+
+2. Activate virtual environment and install dependencies:
+   \\\powershell
+   .\venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
+   \\\
+
+### Execution Options
+
+* **Run End-to-End Pipeline:**
+  \\\ash
+  python run_all.py
+  \\\
+
+* **Run Stages Individually:**
+  \\\ash
+  python run_stage1_masking.py
+  python run_stage2_classify.py
+  python run_stage3_extraction.py
+  \\\
+
+* **Launch Interactive Web App:**
+  \\\ash
+  streamlit run app.py
+  \\\
+
+---
+
+## ?? JSON Deliverables Schema
+
+* **\output/classification_results.json\**: Contains message ID, predicted category, confidence score, and classification rationale.
+* **\output/extracted_tasks.json\**: Contains structured task/event title, normalized deadline (\YYYY-MM-DD\), time, assignee, priority, and source message reference.
+* **\output/sensitive_info_audit.json\**: Contains sensitivity type, risk classification, masked preview text, and security recommendation.
+
+---
+
+## ?? Assumptions & Security Limitations
+
+- **Dataset Privacy:** Original CSV files (\messages.csv\, \mandatory_demo_ids.csv\) are strictly excluded from public tracking via \.gitignore\ to comply with assignment security guidelines.
+- **Relative Date Context:** Relative time expressions (e.g., "tomorrow at 5 PM") depend on the local execution date provided by \dateparser\.
+- **Heuristic Boundaries:** Non-standard or heavily obfuscated tokens may require specialized NER fine-tuning beyond regex heuristics.
+
+---
+
+## ?? AI Development Disclosure
+
+In accordance with evaluation guidelines, AI development tools (ChatGPT / Claude) were used for assistance with boilerplate code structure, regular expression optimizations, and documentation formatting. All architectural decisions, NLP pipelines, and verification steps were implemented and validated independently.
