@@ -4,6 +4,11 @@ A robust, privacy-first AI/ML processing pipeline designed to classify raw chron
 
 ---
 
+## 🌐 Live Web Application
+
+Access the interactive web dashboard hosted on Streamlit Cloud:
+👉 **[KaStack Privacy-Preserving Intelligent Message Pipeline](https://kastack-privacy-preserving-intelligent-message-pipeline.streamlit.app/)**
+
 ## 🌟 Overview & Features
 
 This system processes unstructured communication data locally and in real time through three decoupled stages:
