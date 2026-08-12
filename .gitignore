@@ -1,0 +1,20 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Data Files (Crucial: Prevents uploading assignment CSVs)
+data/*.csv
+data/*.zip
+*.csv
+
+# Output / Temp Logs
+output/*.json
+!.gitkeep
+
+# IDE / VS Code Settings
+.vscode/
+.DS_Store
