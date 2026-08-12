@@ -10,10 +10,7 @@ venv/
 data/*.csv
 data/*.zip
 *.csv
-
-# Output / Temp Logs
-output/*.json
-!.gitkeep
+data/masked_messages_temp.csv
 
 # IDE / VS Code Settings
 .vscode/
