@@ -1,0 +1,1552 @@
+[
+  {
+    "item_id": "TASK_MSG_0010",
+    "type": "task",
+    "title": "Can you help? Don't forget to pay the electricity ...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0010"
+  },
+  {
+    "item_id": "EVENT_MSG_0024",
+    "type": "event",
+    "title": "Just checking\u2014I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0024"
+  },
+  {
+    "item_id": "TASK_MSG_0028",
+    "type": "task",
+    "title": "For today: Don't forget to email the signed docume...",
+    "deadline": "2026-08-12",
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0028"
+  },
+  {
+    "item_id": "TASK_MSG_0032",
+    "type": "task",
+    "title": "Important: Don't forget to upload the assignment; ...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0032"
+  },
+  {
+    "item_id": "EVENT_MSG_0033",
+    "type": "event",
+    "title": "Just checking\u2014The event registration desk opens at...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0033"
+  },
+  {
+    "item_id": "EVENT_MSG_0036",
+    "type": "event",
+    "title": "Please join the study-group session on 2026-09-13,...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0036"
+  },
+  {
+    "item_id": "EVENT_MSG_0041",
+    "type": "event",
+    "title": "For today: If possible, review the file before the...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0041"
+  },
+  {
+    "item_id": "EVENT_MSG_0042",
+    "type": "event",
+    "title": "For today: The client discussion is scheduled for ...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0042"
+  },
+  {
+    "item_id": "TASK_MSG_0046",
+    "type": "task",
+    "title": "For today: Don't forget to call the service centre...",
+    "deadline": "2026-08-12",
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0046"
+  },
+  {
+    "item_id": "EVENT_MSG_0049",
+    "type": "event",
+    "title": "One more thing: The product demo is scheduled for ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0049"
+  },
+  {
+    "item_id": "EVENT_MSG_0055",
+    "type": "event",
+    "title": "The client discussion is scheduled for 2026-09-07 ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0055"
+  },
+  {
+    "item_id": "EVENT_MSG_0064",
+    "type": "event",
+    "title": "Can you help? The event registration desk opens at...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0064"
+  },
+  {
+    "item_id": "TASK_MSG_0065",
+    "type": "task",
+    "title": "One more thing: Don't forget to email the signed d...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0065"
+  },
+  {
+    "item_id": "EVENT_MSG_0066",
+    "type": "event",
+    "title": "Can you help? The project review is scheduled for ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0066"
+  },
+  {
+    "item_id": "EVENT_MSG_0067",
+    "type": "event",
+    "title": "FYI: Please join the AI workshop on 2026-09-13, 16...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0067"
+  },
+  {
+    "item_id": "EVENT_MSG_0077",
+    "type": "event",
+    "title": "FYI: The product demo is scheduled for 2026-09-17 ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0077"
+  },
+  {
+    "item_id": "EVENT_MSG_0084",
+    "type": "event",
+    "title": "Hi, I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0084"
+  },
+  {
+    "item_id": "TASK_MSG_0089",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to call the service cen...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0089"
+  },
+  {
+    "item_id": "EVENT_MSG_0096",
+    "type": "event",
+    "title": "Quick update: The event registration desk opens at...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0096"
+  },
+  {
+    "item_id": "TASK_MSG_0101",
+    "type": "task",
+    "title": "Don't forget to email the signed document; deadlin...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0101"
+  },
+  {
+    "item_id": "EVENT_MSG_0110",
+    "type": "event",
+    "title": "FYI: If possible, review the file before the meeti...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0110"
+  },
+  {
+    "item_id": "TASK_MSG_0115",
+    "type": "task",
+    "title": "Quick update: Don't forget to call the service cen...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0115"
+  },
+  {
+    "item_id": "EVENT_MSG_0131",
+    "type": "event",
+    "title": "One more thing: The project review is scheduled fo...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0131"
+  },
+  {
+    "item_id": "EVENT_MSG_0133",
+    "type": "event",
+    "title": "Important: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0133"
+  },
+  {
+    "item_id": "EVENT_MSG_0138",
+    "type": "event",
+    "title": "For today: The product demo is scheduled for 2026-...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0138"
+  },
+  {
+    "item_id": "EVENT_MSG_0141",
+    "type": "event",
+    "title": "For today: The event registration desk opens at 9 ...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0141"
+  },
+  {
+    "item_id": "TASK_MSG_0144",
+    "type": "task",
+    "title": "Please note: Don't forget to call the service cent...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0144"
+  },
+  {
+    "item_id": "EVENT_MSG_0149",
+    "type": "event",
+    "title": "Hi, The event registration desk opens at 9 AM.",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0149"
+  },
+  {
+    "item_id": "TASK_MSG_0150",
+    "type": "task",
+    "title": "One more thing: Don't forget to call the service c...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0150"
+  },
+  {
+    "item_id": "EVENT_MSG_0151",
+    "type": "event",
+    "title": "FYI: The project review is scheduled for 2026-09-0...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0151"
+  },
+  {
+    "item_id": "TASK_MSG_0160",
+    "type": "task",
+    "title": "Important: Please submit the weekly report by 2026...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0160"
+  },
+  {
+    "item_id": "EVENT_MSG_0162",
+    "type": "event",
+    "title": "Important: Please join the study-group session on ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0162"
+  },
+  {
+    "item_id": "TASK_MSG_0163",
+    "type": "task",
+    "title": "FYI: Don't forget to call the service centre; dead...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0163"
+  },
+  {
+    "item_id": "EVENT_MSG_0170",
+    "type": "event",
+    "title": "FYI: Share the meeting notes is due on 2026-09-05.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0170"
+  },
+  {
+    "item_id": "EVENT_MSG_0189",
+    "type": "event",
+    "title": "FYI: I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0189"
+  },
+  {
+    "item_id": "EVENT_MSG_0190",
+    "type": "event",
+    "title": "If possible, review the file before the meeting.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0190"
+  },
+  {
+    "item_id": "EVENT_MSG_0197",
+    "type": "event",
+    "title": "Please note: The event registration desk opens at ...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0197"
+  },
+  {
+    "item_id": "EVENT_MSG_0198",
+    "type": "event",
+    "title": "Hi, If possible, review the file before the meetin...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0198"
+  },
+  {
+    "item_id": "EVENT_MSG_0207",
+    "type": "event",
+    "title": "FYI: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0207"
+  },
+  {
+    "item_id": "TASK_MSG_0208",
+    "type": "task",
+    "title": "Quick update: Please submit the weekly report by 2...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0208"
+  },
+  {
+    "item_id": "EVENT_MSG_0216",
+    "type": "event",
+    "title": "Important: The project review is scheduled for 202...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0216"
+  },
+  {
+    "item_id": "EVENT_MSG_0223",
+    "type": "event",
+    "title": "Hi, Please join the study-group session on 2026-09...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0223"
+  },
+  {
+    "item_id": "EVENT_MSG_0224",
+    "type": "event",
+    "title": "One more thing: The event registration desk opens ...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0224"
+  },
+  {
+    "item_id": "EVENT_MSG_0228",
+    "type": "event",
+    "title": "One more thing: Just so you know, i prefer morning...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0228"
+  },
+  {
+    "item_id": "EVENT_MSG_0244",
+    "type": "event",
+    "title": "One more thing: Please join the AI workshop on 202...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0244"
+  },
+  {
+    "item_id": "TASK_MSG_0251",
+    "type": "task",
+    "title": "Don't forget to call the service centre; deadline ...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0251"
+  },
+  {
+    "item_id": "EVENT_MSG_0255",
+    "type": "event",
+    "title": "Hi, Please join the internship orientation on 2026...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0255"
+  },
+  {
+    "item_id": "EVENT_MSG_0258",
+    "type": "event",
+    "title": "One more thing: The client discussion is scheduled...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0258"
+  },
+  {
+    "item_id": "TASK_MSG_0265",
+    "type": "task",
+    "title": "Hi, Don't forget to pay the electricity bill; dead...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0265"
+  },
+  {
+    "item_id": "TASK_MSG_0269",
+    "type": "task",
+    "title": "For today: Don't forget to upload the assignment; ...",
+    "deadline": "2026-08-12",
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0269"
+  },
+  {
+    "item_id": "EVENT_MSG_0278",
+    "type": "event",
+    "title": "One more thing: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0278"
+  },
+  {
+    "item_id": "EVENT_MSG_0280",
+    "type": "event",
+    "title": "Quick update: Share the meeting notes is due on 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0280"
+  },
+  {
+    "item_id": "TASK_MSG_0283",
+    "type": "task",
+    "title": "Important: Don't forget to call the service centre...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0283"
+  },
+  {
+    "item_id": "EVENT_MSG_0302",
+    "type": "event",
+    "title": "Important: The client discussion is scheduled for ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0302"
+  },
+  {
+    "item_id": "TASK_MSG_0309",
+    "type": "task",
+    "title": "Can you help? Don't forget to email the signed doc...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0309"
+  },
+  {
+    "item_id": "EVENT_MSG_0319",
+    "type": "event",
+    "title": "Quick update: Remember that i prefer morning meeti...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0319"
+  },
+  {
+    "item_id": "EVENT_MSG_0330",
+    "type": "event",
+    "title": "Please note: Please join the AI workshop on 2026-0...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0330"
+  },
+  {
+    "item_id": "EVENT_MSG_0338",
+    "type": "event",
+    "title": "Hi, The product demo is scheduled for 2026-09-12 a...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0338"
+  },
+  {
+    "item_id": "TASK_MSG_0339",
+    "type": "task",
+    "title": "Quick update: Don't forget to pay the electricity ...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0339"
+  },
+  {
+    "item_id": "EVENT_MSG_0342",
+    "type": "event",
+    "title": "Can you help? The product demo is scheduled for 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0342"
+  },
+  {
+    "item_id": "TASK_MSG_0345",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to upload the assignmen...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0345"
+  },
+  {
+    "item_id": "EVENT_MSG_0350",
+    "type": "event",
+    "title": "Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0350"
+  },
+  {
+    "item_id": "EVENT_MSG_0354",
+    "type": "event",
+    "title": "Can you help? Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0354"
+  },
+  {
+    "item_id": "EVENT_MSG_0356",
+    "type": "event",
+    "title": "FYI: The client discussion is scheduled for 2026-0...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0356"
+  },
+  {
+    "item_id": "EVENT_MSG_0357",
+    "type": "event",
+    "title": "Just checking\u2014The project review is scheduled for ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0357"
+  },
+  {
+    "item_id": "TASK_MSG_0368",
+    "type": "task",
+    "title": "Please note: Don't forget to email the signed docu...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0368"
+  },
+  {
+    "item_id": "TASK_MSG_0369",
+    "type": "task",
+    "title": "Please note: Please submit the weekly report by 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0369"
+  },
+  {
+    "item_id": "EVENT_MSG_0371",
+    "type": "event",
+    "title": "Can you help? Remember that i prefer morning meeti...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0371"
+  },
+  {
+    "item_id": "EVENT_MSG_0372",
+    "type": "event",
+    "title": "FYI: Just so you know, i prefer morning meetings.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0372"
+  },
+  {
+    "item_id": "EVENT_MSG_0377",
+    "type": "event",
+    "title": "One more thing: If possible, review the file befor...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0377"
+  },
+  {
+    "item_id": "EVENT_MSG_0378",
+    "type": "event",
+    "title": "Important: Please join the internship orientation ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0378"
+  },
+  {
+    "item_id": "TASK_MSG_0379",
+    "type": "task",
+    "title": "One more thing: Please submit the weekly report by...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0379"
+  },
+  {
+    "item_id": "EVENT_MSG_0382",
+    "type": "event",
+    "title": "For today: The project review is scheduled for 202...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0382"
+  },
+  {
+    "item_id": "TASK_MSG_0394",
+    "type": "task",
+    "title": "FYI: Don't forget to email the signed document; de...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0394"
+  },
+  {
+    "item_id": "EVENT_MSG_0402",
+    "type": "event",
+    "title": "One more thing: I might prefer evening meetings no...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0402"
+  },
+  {
+    "item_id": "EVENT_MSG_0408",
+    "type": "event",
+    "title": "Remember that i prefer morning meetings.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0408"
+  },
+  {
+    "item_id": "EVENT_MSG_0423",
+    "type": "event",
+    "title": "Quick update: The product demo is scheduled for 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0423"
+  },
+  {
+    "item_id": "EVENT_MSG_0427",
+    "type": "event",
+    "title": "Please note: The project review is scheduled for 2...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0427"
+  },
+  {
+    "item_id": "EVENT_MSG_0431",
+    "type": "event",
+    "title": "The event registration desk opens at 9 AM.",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0431"
+  },
+  {
+    "item_id": "EVENT_MSG_0437",
+    "type": "event",
+    "title": "For today: Just so you know, i prefer morning meet...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0437"
+  },
+  {
+    "item_id": "EVENT_MSG_0444",
+    "type": "event",
+    "title": "Quick update: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0444"
+  },
+  {
+    "item_id": "EVENT_MSG_0452",
+    "type": "event",
+    "title": "Important: The event registration desk opens at 9 ...",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0452"
+  },
+  {
+    "item_id": "EVENT_MSG_0456",
+    "type": "event",
+    "title": "Just checking\u2014The client discussion is scheduled f...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0456"
+  },
+  {
+    "item_id": "EVENT_MSG_0457",
+    "type": "event",
+    "title": "Can you help? If possible, review the file before ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0457"
+  },
+  {
+    "item_id": "EVENT_MSG_0489",
+    "type": "event",
+    "title": "Please note: I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0489"
+  },
+  {
+    "item_id": "TASK_MSG_0498",
+    "type": "task",
+    "title": "Please note: Don't forget to upload the assignment...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0498"
+  },
+  {
+    "item_id": "EVENT_MSG_0500",
+    "type": "event",
+    "title": "Hi, Remember that i prefer morning meetings.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0500"
+  },
+  {
+    "item_id": "EVENT_MSG_0501",
+    "type": "event",
+    "title": "Important: Remember that i prefer morning meetings...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0501"
+  },
+  {
+    "item_id": "EVENT_MSG_0502",
+    "type": "event",
+    "title": "Hi, Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0502"
+  },
+  {
+    "item_id": "TASK_MSG_0503",
+    "type": "task",
+    "title": "Can you help? Don't forget to call the service cen...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0503"
+  },
+  {
+    "item_id": "EVENT_MSG_0510",
+    "type": "event",
+    "title": "I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0510"
+  },
+  {
+    "item_id": "EVENT_MSG_0522",
+    "type": "event",
+    "title": "Please note: Just so you know, i prefer morning me...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0522"
+  },
+  {
+    "item_id": "EVENT_MSG_0524",
+    "type": "event",
+    "title": "Just checking\u2014If possible, review the file before ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0524"
+  },
+  {
+    "item_id": "EVENT_MSG_0526",
+    "type": "event",
+    "title": "Just checking\u2014Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0526"
+  },
+  {
+    "item_id": "TASK_MSG_0530",
+    "type": "task",
+    "title": "For today: Please submit the weekly report by 2026...",
+    "deadline": "2026-08-12",
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0530"
+  },
+  {
+    "item_id": "TASK_MSG_0536",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to pay the electricity ...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0536"
+  },
+  {
+    "item_id": "EVENT_MSG_0544",
+    "type": "event",
+    "title": "Just checking\u2014Just so you know, i prefer morning m...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0544"
+  },
+  {
+    "item_id": "TASK_MSG_0547",
+    "type": "task",
+    "title": "Hi, Please submit the weekly report by 2026-09-10.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0547"
+  },
+  {
+    "item_id": "TASK_MSG_0552",
+    "type": "task",
+    "title": "Please submit the weekly report by 2026-09-02.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0552"
+  },
+  {
+    "item_id": "TASK_MSG_0554",
+    "type": "task",
+    "title": "FYI: Don't forget to upload the assignment; deadli...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0554"
+  },
+  {
+    "item_id": "EVENT_MSG_0556",
+    "type": "event",
+    "title": "Hi, Share the meeting notes is due on 2026-09-08.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0556"
+  },
+  {
+    "item_id": "EVENT_MSG_0559",
+    "type": "event",
+    "title": "Please note: If possible, review the file before t...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0559"
+  },
+  {
+    "item_id": "EVENT_MSG_0562",
+    "type": "event",
+    "title": "FYI: The event registration desk opens at 9 AM.",
+    "deadline": null,
+    "time": "09:00",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0562"
+  },
+  {
+    "item_id": "EVENT_MSG_0566",
+    "type": "event",
+    "title": "Just checking\u2014Share the meeting notes is due on 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0566"
+  },
+  {
+    "item_id": "EVENT_MSG_0580",
+    "type": "event",
+    "title": "Important: If possible, review the file before the...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0580"
+  },
+  {
+    "item_id": "EVENT_MSG_0588",
+    "type": "event",
+    "title": "Hi, The client discussion is scheduled for 2026-09...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0588"
+  },
+  {
+    "item_id": "TASK_MSG_0605",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to email the signed doc...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0605"
+  },
+  {
+    "item_id": "EVENT_MSG_0606",
+    "type": "event",
+    "title": "Just checking\u2014The product demo is scheduled for 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0606"
+  },
+  {
+    "item_id": "TASK_MSG_0614",
+    "type": "task",
+    "title": "Don't forget to pay the electricity bill; deadline...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0614"
+  },
+  {
+    "item_id": "EVENT_MSG_0619",
+    "type": "event",
+    "title": "Please note: The product demo is scheduled for 202...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0619"
+  },
+  {
+    "item_id": "TASK_MSG_0620",
+    "type": "task",
+    "title": "For today: Don't forget to pay the electricity bil...",
+    "deadline": "2026-08-12",
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0620"
+  },
+  {
+    "item_id": "EVENT_MSG_0623",
+    "type": "event",
+    "title": "Can you help? Please join the study-group session ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0623"
+  },
+  {
+    "item_id": "EVENT_MSG_0629",
+    "type": "event",
+    "title": "Can you help? I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0629"
+  },
+  {
+    "item_id": "TASK_MSG_0633",
+    "type": "task",
+    "title": "One more thing: Don't forget to upload the assignm...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0633"
+  },
+  {
+    "item_id": "TASK_MSG_0639",
+    "type": "task",
+    "title": "Can you help? Please submit the weekly report by 2...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0639"
+  },
+  {
+    "item_id": "TASK_MSG_0640",
+    "type": "task",
+    "title": "Can you help? Don't forget to upload the assignmen...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0640"
+  },
+  {
+    "item_id": "EVENT_MSG_0652",
+    "type": "event",
+    "title": "One more thing: Share the meeting notes is due on ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0652"
+  },
+  {
+    "item_id": "EVENT_MSG_0660",
+    "type": "event",
+    "title": "Please join the internship orientation on 2026-09-...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0660"
+  },
+  {
+    "item_id": "TASK_MSG_0667",
+    "type": "task",
+    "title": "Important: Don't forget to pay the electricity bil...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0667"
+  },
+  {
+    "item_id": "TASK_MSG_0670",
+    "type": "task",
+    "title": "Quick update: Don't forget to upload the assignmen...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0670"
+  },
+  {
+    "item_id": "EVENT_MSG_0674",
+    "type": "event",
+    "title": "Quick update: The project review is scheduled for ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0674"
+  },
+  {
+    "item_id": "EVENT_MSG_0685",
+    "type": "event",
+    "title": "For today: I might prefer evening meetings now.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0685"
+  },
+  {
+    "item_id": "TASK_MSG_0688",
+    "type": "task",
+    "title": "Don't forget to upload the assignment; deadline is...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0688"
+  },
+  {
+    "item_id": "EVENT_MSG_0693",
+    "type": "event",
+    "title": "Hi, The project review is scheduled for 2026-09-02...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0693"
+  },
+  {
+    "item_id": "EVENT_MSG_0706",
+    "type": "event",
+    "title": "Quick update: Please join the study-group session ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0706"
+  },
+  {
+    "item_id": "EVENT_MSG_0707",
+    "type": "event",
+    "title": "Important: The product demo is scheduled for 2026-...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0707"
+  },
+  {
+    "item_id": "EVENT_MSG_0713",
+    "type": "event",
+    "title": "Quick update: I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0713"
+  },
+  {
+    "item_id": "EVENT_MSG_0716",
+    "type": "event",
+    "title": "Can you help? Share the meeting notes is due on 20...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0716"
+  },
+  {
+    "item_id": "EVENT_MSG_0720",
+    "type": "event",
+    "title": "Share the meeting notes is due on 2026-09-09.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0720"
+  },
+  {
+    "item_id": "TASK_MSG_0730",
+    "type": "task",
+    "title": "Just checking\u2014Please submit the weekly report by 2...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0730"
+  },
+  {
+    "item_id": "TASK_MSG_0743",
+    "type": "task",
+    "title": "One more thing: Don't forget to pay the electricit...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0743"
+  },
+  {
+    "item_id": "EVENT_MSG_0745",
+    "type": "event",
+    "title": "Just checking\u2014Please join the AI workshop on 2026-...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0745"
+  },
+  {
+    "item_id": "TASK_MSG_0754",
+    "type": "task",
+    "title": "Please note: Don't forget to pay the electricity b...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0754"
+  },
+  {
+    "item_id": "TASK_MSG_0757",
+    "type": "task",
+    "title": "Hi, Don't forget to call the service centre; deadl...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0757"
+  },
+  {
+    "item_id": "EVENT_MSG_0759",
+    "type": "event",
+    "title": "The product demo is scheduled for 2026-09-12 at 11...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0759"
+  },
+  {
+    "item_id": "TASK_MSG_0761",
+    "type": "task",
+    "title": "Hi, Don't forget to upload the assignment; deadlin...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0761"
+  },
+  {
+    "item_id": "EVENT_MSG_0770",
+    "type": "event",
+    "title": "Please note: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0770"
+  },
+  {
+    "item_id": "EVENT_MSG_0773",
+    "type": "event",
+    "title": "Important: I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0773"
+  },
+  {
+    "item_id": "EVENT_MSG_0787",
+    "type": "event",
+    "title": "Important: Share the meeting notes is due on 2026-...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0787"
+  },
+  {
+    "item_id": "EVENT_MSG_0788",
+    "type": "event",
+    "title": "Quick update: The client discussion is scheduled f...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0788"
+  },
+  {
+    "item_id": "EVENT_MSG_0792",
+    "type": "event",
+    "title": "The project review is scheduled for 2026-09-02 at ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0792"
+  },
+  {
+    "item_id": "EVENT_MSG_0795",
+    "type": "event",
+    "title": "For today: Share the meeting notes is due on 2026-...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0795"
+  },
+  {
+    "item_id": "TASK_MSG_0799",
+    "type": "task",
+    "title": "Quick update: Don't forget to email the signed doc...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0799"
+  },
+  {
+    "item_id": "EVENT_MSG_0801",
+    "type": "event",
+    "title": "For today: Let us meet sometime next week.",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0801"
+  },
+  {
+    "item_id": "TASK_MSG_0809",
+    "type": "task",
+    "title": "FYI: Don't forget to pay the electricity bill; dea...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0809"
+  },
+  {
+    "item_id": "EVENT_MSG_0816",
+    "type": "event",
+    "title": "Quick update: If possible, review the file before ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0816"
+  },
+  {
+    "item_id": "EVENT_MSG_0819",
+    "type": "event",
+    "title": "Please note: Share the meeting notes is due on 202...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0819"
+  },
+  {
+    "item_id": "TASK_MSG_0824",
+    "type": "task",
+    "title": "FYI: Please submit the weekly report by 2026-09-07...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0824"
+  },
+  {
+    "item_id": "TASK_MSG_0829",
+    "type": "task",
+    "title": "Important: Don't forget to email the signed docume...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0829"
+  },
+  {
+    "item_id": "EVENT_MSG_0841",
+    "type": "event",
+    "title": "Quick update: Please join the internship orientati...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0841"
+  },
+  {
+    "item_id": "EVENT_MSG_0847",
+    "type": "event",
+    "title": "Can you help? Please join the internship orientati...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0847"
+  },
+  {
+    "item_id": "TASK_MSG_0862",
+    "type": "task",
+    "title": "Hi, Don't forget to email the signed document; dea...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0862"
+  },
+  {
+    "item_id": "EVENT_MSG_0868",
+    "type": "event",
+    "title": "Can you help? The client discussion is scheduled f...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0868"
+  },
+  {
+    "item_id": "EVENT_MSG_0878",
+    "type": "event",
+    "title": "Please note: The client discussion is scheduled fo...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0878"
+  },
+  {
+    "item_id": "EVENT_MSG_0895",
+    "type": "event",
+    "title": "For today: Please join the AI workshop on 2026-09-...",
+    "deadline": null,
+    "time": "23:24",
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0895"
+  }
+]

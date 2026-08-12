@@ -1,0 +1,205 @@
+[
+  {
+    "message_id": "MSG_0013",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "One more thing: My card number is *******************-92.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0243",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Just checking\u2014Your *************-50. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0254",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "For today: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0257",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "FYI: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0267",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Please note: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0273",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Quick update: Your *************-20. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0288",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "One more thing: Your *************-90. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0352",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Can you help? Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0367",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Hi, My card number is *******************-42.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0397",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Just checking\u2014Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0419",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Quick update: My card number is *******************-22.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0595",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Can you help? Your *************-80. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0596",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "For today: Your *************-30. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0604",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "FYI: Your *************-70. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0610",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Just checking\u2014My card number is *******************-52.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0642",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Important: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0649",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Can you help? My card number is *******************-82.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0681",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Important: My card number is *******************-62.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0684",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "For today: My card number is *******************-32.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0751",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Hi, Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0791",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Please note: Your *************-10. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0803",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Please note: My card number is *******************-12.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0812",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "My card number is *******************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0813",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "FYI: My card number is *******************-72.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0834",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Your *************. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0848",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "Quick update: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0854",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Hi, Your *************-40. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0880",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Important: Your *************-60. It expires in 10 minutes.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_0890",
+    "sensitivity_type": "bank_payment_details",
+    "risk": "critical",
+    "masked_text": "One more thing: Please note my bank account number ***************.",
+    "recommended_action": "do_not_store"
+  }
+]
